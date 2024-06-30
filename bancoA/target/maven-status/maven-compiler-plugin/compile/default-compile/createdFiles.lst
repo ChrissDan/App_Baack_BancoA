@@ -1,0 +1,15 @@
+api_rest_backend\bancoA\service\MovimientoService.class
+api_rest_backend\bancoA\model\Movimiento.class
+api_rest_backend\bancoA\service\ClienteService.class
+api_rest_backend\bancoA\repository\UserRepository.class
+api_rest_backend\bancoA\controller\ClienteController.class
+api_rest_backend\bancoA\exceptions\ResourceNotFoundException.class
+api_rest_backend\bancoA\BancoAApplication.class
+api_rest_backend\bancoA\configuration\WebConfig.class
+api_rest_backend\bancoA\model\User.class
+api_rest_backend\bancoA\model\Cliente.class
+api_rest_backend\bancoA\repository\ClienteRepository.class
+api_rest_backend\bancoA\configuration\WebConfig$1.class
+api_rest_backend\bancoA\controller\UserController.class
+api_rest_backend\bancoA\repository\MovimientoRepository.class
+api_rest_backend\bancoA\service\UserService.class
